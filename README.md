@@ -1,0 +1,1 @@
+# sonarAIT-vscode-colorscheme
