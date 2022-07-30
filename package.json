@@ -1,5 +1,6 @@
 {
     "name": "sonarait-colorschemes",
+    "publisher": "sonarAIT",
     "displayName": "sonarAIT-ColorSchemes",
     "description": "",
     "version": "0.0.1",
@@ -12,9 +13,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "sonarAIT-ColorSchemes",
+                "label": "Monokai Pro Custom",
                 "uiTheme": "vs-dark",
-                "path": "./themes/sonarAIT-ColorSchemes-color-theme.json"
+                "path": "./themes/Monokai-Pro-Custom.json"
+            },
+            {
+                "label": "Apollo",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Apollo.json"
             }
         ]
     }
