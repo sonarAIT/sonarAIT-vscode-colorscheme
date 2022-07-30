@@ -1,0 +1,21 @@
+{
+    "name": "sonarait-colorschemes",
+    "displayName": "sonarAIT-ColorSchemes",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "sonarAIT-ColorSchemes",
+                "uiTheme": "vs-dark",
+                "path": "./themes/sonarAIT-ColorSchemes-color-theme.json"
+            }
+        ]
+    }
+}
